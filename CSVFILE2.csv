@@ -1,4 +1,4 @@
-FJI_AC_100.png,1
+FJI_AC_100.png,0
 FJI_AC_107.png,1
 FJI_AC_1160.png,0
 FJI_AC_1266.png,1
@@ -8,20 +8,20 @@ FJI_AC_244.png,1
 FJI_AC_354.png,1
 FJI_AC_383.png,1
 FJI_AI_1008.png,1
-FJI_AI_1050.png,1
-FJI_AI_1052.png,1
+FJI_AI_1050.png,0
+FJI_AI_1052.png,0
 FJI_AI_1187.png,1
 FJI_AI_122.png,1
-FJI_AI_186.png,1
+FJI_AI_186.png,0
 FJI_AI_196.png,1
-FJI_AI_233.png,1
+FJI_AI_233.png,0
 FJI_AI_234.png,1
 FJI_AI_269.png,1
 FJI_AI_288.png,1
 FJI_AI_29.png,1
 FJI_AI_35.png,1
 FJI_AI_36.png,1
-FJI_AI_52.png,0
+FJI_AI_52.png,1
 FJI_AI_572.png,1
 FJI_AI_868.png,1
 FJI_AI_869.png,1
@@ -29,7 +29,7 @@ FJI_AI_899.png,1
 FJI_AI_905.png,1
 FJI_AU_125.png,1
 FJI_AU_130.png,1
-FJI_AU_150.png,1
+FJI_AU_150.png,0
 FJI_AU_162.png,1
 FJI_AU_169.png,1
 FJI_AU_172.png,1
@@ -60,7 +60,7 @@ FJI_AU_627.png,1
 FJI_AU_632.png,1
 FJI_AU_649.png,1
 FJI_AU_659.png,1
-FJI_AU_664.png,1
+FJI_AU_664.png,0
 FJI_EC_156.png,1
 FJI_EC_179.png,1
 FJI_EC_180.png,1
@@ -108,7 +108,7 @@ FJI_GM_358.png,1
 FJI_GM_385.png,1
 FJI_GM_425.png,0
 FJI_GM_430.png,1
-FJI_GM_555.png,0
+FJI_GM_555.png,1
 FJI_GM_619.png,1
 FJI_GM_640.png,1
 HAR_AQ_12.png,1
@@ -131,7 +131,7 @@ HAR_AQ_534.png,1
 HAR_AQ_548.png,1
 HAR_AQ_555.png,1
 HAR_AQ_559.png,1
-HAR_AQ_580.png,1
+HAR_AQ_580.png,0
 HAR_AQ_582.png,1
 HAR_AQ_647.png,1
 HAR_AQ_648.png,1
@@ -156,7 +156,7 @@ HAR_AQ_786.png,1
 HAR_AQ_811.png,1
 HAR_AQ_821.png,1
 HAR_AQ_825.png,1
-HAR_AQ_83.png,1
+HAR_AQ_83.png,0
 HAR_AQ_839.png,1
 HAR_AQ_844.png,1
 HAR_AQ_845.png,1
